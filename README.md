@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-🎮 Estudiante de Desarrollo de Videojuegos, trabajo principalmente con **Unity en C#**, y me apasiona crear experiencias interactivas que mezclen mecánicas desafiantes con una estética atractiva. Aspirante a Tech Artist
+🎮 Estudiante de Desarrollo de Videojuegos, trabajo principalmente con **Unity en C#**, y me apasiona crear experiencias interactivas que mezclen mecánicas desafiantes con una estética atractiva. Aspirante a Tech Artist.
 
 # 🛠️ Motor y Lenguaje:                 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)   	![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -15,7 +15,7 @@
 # 🕹️ Mis proyectos:                 
 
 ### 🍞 Ricardo, el que come y no convida
-Juego 2D en desarrollo, trabajo en equipo, en equipo. Me encargué de:
+Juego 2D en desarrollo, trabajo en equipo. Me encargué de:
 
 - **IA de enemigos**: comportamiento, persecución (NavMesh) y ataque.
 - **Sistema de vida**: tanto para el jugador como los enemigos.
